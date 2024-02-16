@@ -58,20 +58,6 @@ const IndexPageTemplate = ({ image, title, heading, subheading, mainpitch, descr
             <div className="columns">
               <div className="column is-10 is-offset-1">
                 <div className="content">
-                  <div className="content">
-                    <div className="tile">
-                      <h1 className="title">{mainpitch.title}</h1>
-                    </div>
-                    <div className="tile">
-                      <h3 className="subtitle">{mainpitch.description}</h3>
-                    </div>
-                  </div>
-                  <div className="columns">
-                    <div className="column is-12">
-                      <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
-                      <p>{description}</p>
-                    </div>
-                  </div>
                   <div className="columns">
                     <div className="column is-10">
                       <div className="section">
@@ -103,8 +89,6 @@ IndexPageTemplate.propTypes = {
   title: PropTypes.string,
   heading: PropTypes.string,
   subheading: PropTypes.string,
-  mainpitch: PropTypes.object,
-  description: PropTypes.string,
   content: PropTypes.string,
   contentComponent: PropTypes.func,
 };
@@ -114,7 +98,7 @@ const IndexPage = ({ data }) => {
 
   return (
     <Layout>
-      <IndexPageTemplate contentComponent={HTMLContent} image={post.frontmatter.image} title={post.frontmatter.title} heading={post.frontmatter.heading} subheading={post.frontmatter.subheading} mainpitch={post.frontmatter.mainpitch} description={post.frontmatter.description} intro={post.frontmatter.intro} content={post.html} />
+      <IndexPageTemplate contentComponent={HTMLContent} image={post.frontmatter.image} title={post.frontmatter.title} heading={post.frontmatter.heading} subheading={post.frontmatter.subheading} content={post.html} />
     </Layout>
   );
 };
@@ -142,11 +126,6 @@ export const pageQuery = graphql`
         }
         heading
         subheading
-        mainpitch {
-          title
-          description
-        }
-        description
       }
     }
   }

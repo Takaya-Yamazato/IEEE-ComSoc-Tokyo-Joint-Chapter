@@ -1,11 +1,11 @@
 ---
 templateKey: "officers"
 path: /officers
-title: IEEE ComSoc Joint Sections Chapter Officers
+title: Officers
 image: /img/jumbotron.webp
-heading: Sapporo/Shinetsu/Tokyo/Nagoya/Shikoku/Hiroshima/Fukuoka
+heading: Officers (2023 - 2024)
 description: >-
-  Officers (2021 - 2022)
+  IEEE ComSoc Tokyo (Joint) Chapter
 intro:
   blurbs:
     - position: Chair

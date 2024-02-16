@@ -58,6 +58,9 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/blog/">
                 News and Announcements
               </Link>
+              <a className="navbar-item" href="https://www.ieee-jp.org/section/tokyo/chapter/COM-19/index.html" target="_blank" rel="noopener noreferrer">
+                Past events (to the previous site)
+              </a>
             </div>
             <div className="navbar-end has-text-centered">
               <a className="navbar-item" href="https://github.com/Takaya-Yamazato/owc2024" target="_blank" rel="noopener noreferrer">
