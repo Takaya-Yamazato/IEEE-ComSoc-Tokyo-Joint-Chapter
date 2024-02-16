@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: Workshop on Optical Wireless Communications (OWC’24) for 6G
+title: IEEE ComSoc Joint Sections Chapter
 image: /img/jumbotron.webp
-heading: OWC'24
-subheading: In association with IEEE 99th Vehicular Technology Conference (VTC2024-Spring), Singapore
+heading: IEEE JC Com-19
+subheading: Sapporo/Shinetsu/Tokyo/Nagoya/Shikoku/Hiroshima/Fukuoka
 mainpitch:
-  title: Optical wireless communications
+  title: IEEE ComSoc Sapporo/Shinetsu/Tokyo/Nagoya/Shikoku/Hiroshima/Fukuoka Joint Sections Chapter
   description: Optical wireless communications (OWC) is a form of optical communication in which unguided visible, infrared (IR), or ultraviolet (UV) light is used to carry a signal.
 description: >-
   OWC'24 workshop aims to bring together researchers and practitioners from academia and industry working in emerging LiFi, visible light communications (VLC) and underwater optical communications as well as the traditional wireless infrared communications (IRC) to present, share and discuss their latest research results.
@@ -32,9 +32,9 @@ Empowered by the recent adoption of IEEE 802.11bb, various OWC products are grad
 - Applications and use cases: Examine real-world applications and use cases of OWC, including its role in 5G/6G networks, aerospace, IoT applications, indoor localization, motion capture, ITS, vehicular networks, and underwater communication.
 - Integration with existing technologies: Explore strategies for integrating OWC with existing technologies, including its coexistence with RF-based communication to enhance overall communication network capabilities.
 - Networking and community building: Foster collaboration and networking among the researchers in the OWC field, facilitating knowledge exchange and future collaborations.
- 
 
 # Topics of Interest
+
 <p align="justify">
 The workshop on OWC aims to bring together researchers and developers from both academia and industry to present, share, and discuss their latest work on OWC systems for terrestrial, space, or underwater applications. The workshop cordially invites high-quality contributions covering the following topics based on original research. The potential topics include, but are not limited to:
 </p>
@@ -45,7 +45,7 @@ The workshop on OWC aims to bring together researchers and developers from both 
 - Physical layer security for OWC
 - Beam steering and alignment techniques for OWC
 - Optical reconfigurable intelligent surface (RIS) aided communications
-- Fading mitigation in FSO links: spatial, temporal, polarization, 
+- Fading mitigation in FSO links: spatial, temporal, polarization,
   coding, and adaptive approaches
 - Artificial intelligence and machine learning for intelligent and adaptive networks
 - OWC for vehicle-to-vehicle (V2V) and vehicle-to-infrastructure (V2I) communication systems

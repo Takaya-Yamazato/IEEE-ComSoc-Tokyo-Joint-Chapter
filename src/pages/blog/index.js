@@ -1,7 +1,7 @@
-import React from 'react'
+import React from "react";
 
-import Layout from '../../components/Layout'
-import BlogRoll from '../../components/BlogRoll'
+import Layout from "../../components/Layout";
+import BlogRoll from "../../components/BlogRoll";
 
 export default class BlogIndexPage extends React.Component {
   render() {
@@ -12,16 +12,16 @@ export default class BlogIndexPage extends React.Component {
           style={{
             // backgroundImage: `url('../../../../static/img/jumbotron.webp')`,
             // backgroundImage: `url('/img/jumbotron.webp')`,
-            backgroundImage: `url('../img/jumbotron.webp')`,
+            backgroundImage: `url('../img/ashirani-murata-rQgqf6ynkP8-unsplash.jpg')`,
           }}
         >
           <h1
             className="has-text-weight-bold is-size-1"
             style={{
-              boxShadow: '0.5rem 0 0 #134d72, -0.5rem 0 0 #134d72',
-              backgroundColor: '#134d72',
-              color: 'white',
-              padding: '1rem',
+              boxShadow: "0.5rem 0 0 #134d72, -0.5rem 0 0 #134d72",
+              backgroundColor: "#134d72",
+              color: "white",
+              padding: "1rem",
             }}
           >
             News and Announcements
@@ -35,6 +35,6 @@ export default class BlogIndexPage extends React.Component {
           </div>
         </section>
       </Layout>
-    )
+    );
   }
 }

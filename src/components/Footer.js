@@ -1,27 +1,23 @@
-import React from 'react'
-import { Link } from 'gatsby'
+import React from "react";
+import { Link } from "gatsby";
 
-import logo from '../img/logo.svg'
+import logo from "../img/logo.svg";
 // import facebook from "../img/social/facebook.svg";
 // import instagram from '../img/social/instagram.svg'
 // import twitter from "../img/social/twitter.svg";
 // import vimeo from '../img/social/vimeo.svg'
-import { FaWifi } from '@react-icons/all-files/fa/FaWifi'
+import { FaWifi } from "@react-icons/all-files/fa/FaWifi";
 
 const Footer = class extends React.Component {
   render() {
     return (
       <footer className="footer has-background-black has-text-white-ter">
         <div className="content has-text-centered">
-          <img
-            src={logo}
-            alt="Kaldi"
-            style={{ width: '14em', height: '10em' }}
-          />
+          <img src={logo} alt="Kaldi" style={{ width: "14em", height: "10em" }} />
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
           <div className="container has-background-black has-text-white-ter">
-            <div style={{ maxWidth: '100vw' }} className="columns">
+            <div style={{ maxWidth: "100vw" }} className="columns">
               <div className="column is-4">
                 <section className="menu">
                   <ul className="menu-list">
@@ -36,18 +32,8 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/committee/">
-                        Committee
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/submission/">
-                        Submission
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/program/">
-                        Program
+                      <Link className="navbar-item" to="/officers/">
+                        Officers
                       </Link>
                     </li>
                   </ul>
@@ -62,28 +48,15 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
-                      <a
-                        className="navbar-item"
-                        href="https://events.vtsociety.org/vtc2024-spring/"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        title="The 2024 IEEE 99th Vehicular Technology Conference: VTC2024-Spring"
-                      >
-                        The 2024 IEEE 99th Vehicular Technology Conference:
-                        VTC2024-Spring
+                      <a className="navbar-item" href="https://ieee-jp.org/" target="_blank" rel="noopener noreferrer" title="IEEE Japan Council">
+                        IEEE Japan Council
                       </a>
                     </li>
                   </ul>
                 </section>
               </div>
               <div className="column is-4 social">
-                <a
-                  className="navbar-item"
-                  href="https://yamazato.nuee.nagoya-u.ac.jp/en/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  title="Nagoya University Yamazato Laboratory"
-                >
+                <a className="navbar-item" href="https://yamazato.nuee.nagoya-u.ac.jp/en/" target="_blank" rel="noopener noreferrer" title="Nagoya University Yamazato Laboratory">
                   <FaWifi />
                   &nbsp;&nbsp;Yamazato Laboratory
                 </a>
@@ -92,8 +65,8 @@ const Footer = class extends React.Component {
           </div>
         </div>
       </footer>
-    )
+    );
   }
-}
+};
 
-export default Footer
+export default Footer;

@@ -1,36 +1,28 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import { graphql, withPrefix } from 'gatsby'
-import Layout from '../components/Layout'
-import Features from '../components/Features'
-import Content, { HTMLContent } from '../components/Content'
+import React from "react";
+import PropTypes from "prop-types";
+import { graphql, withPrefix } from "gatsby";
+import Layout from "../components/Layout";
+import Features from "../components/Officers";
+import Content, { HTMLContent } from "../components/Content";
 
-const CommitteePageTemplate = ({
-  image,
-  title,
-  heading,
-  description,
-  intro,
-  content,
-  contentComponent,
-}) => {
-  const PageContent = contentComponent || Content
+const OfficersPageTemplate = ({ image, title, heading, description, intro, content, contentComponent }) => {
+  const PageContent = contentComponent || Content;
 
   return (
     <div className="content">
       <div
         className="full-width-image-container margin-top-0"
         style={{
-          backgroundImage: `url('${withPrefix('/')}img/jumbotron.webp')`,
+          backgroundImage: `url('${withPrefix("/")}img/ashirani-murata-rQgqf6ynkP8-unsplash.jpg')`,
         }}
       >
         <h2
           className="has-text-weight-bold is-size-1"
           style={{
-            boxShadow: '0.5rem 0 0 #134d72, -0.5rem 0 0 #134d72',
-            backgroundColor: '#134d72',
-            color: 'white',
-            padding: '1rem',
+            boxShadow: "0.5rem 0 0 #134d72, -0.5rem 0 0 #134d72",
+            backgroundColor: "#134d72",
+            color: "white",
+            padding: "1rem",
           }}
         >
           {title}
@@ -41,9 +33,7 @@ const CommitteePageTemplate = ({
           <div className="section">
             <div className="columns">
               <div className="column is-7 is-offset-1">
-                <h3 className="has-text-weight-semibold is-size-2">
-                  {heading}
-                </h3>
+                <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
                 <h3>{description}</h3>
                 <hr></hr>
               </div>
@@ -64,10 +54,10 @@ const CommitteePageTemplate = ({
         </div>
       </section>
     </div>
-  )
-}
+  );
+};
 
-CommitteePageTemplate.propTypes = {
+OfficersPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   title: PropTypes.string,
   heading: PropTypes.string,
@@ -77,38 +67,30 @@ CommitteePageTemplate.propTypes = {
   }),
   content: PropTypes.string,
   contentComponent: PropTypes.func,
-}
+};
 
-const CommitteePage = ({ data }) => {
-  const { markdownRemark: post } = data
+const OfficersPage = ({ data }) => {
+  const { markdownRemark: post } = data;
 
   return (
     <Layout>
-      <CommitteePageTemplate
-        contentComponent={HTMLContent}
-        image={post.frontmatter.image}
-        title={post.frontmatter.title}
-        heading={post.frontmatter.heading}
-        description={post.frontmatter.description}
-        intro={post.frontmatter.intro}
-        content={post.html}
-      />
+      <OfficersPageTemplate contentComponent={HTMLContent} image={post.frontmatter.image} title={post.frontmatter.title} heading={post.frontmatter.heading} description={post.frontmatter.description} intro={post.frontmatter.intro} content={post.html} />
     </Layout>
-  )
-}
+  );
+};
 
-CommitteePage.propTypes = {
+OfficersPage.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.shape({
       frontmatter: PropTypes.object,
     }),
   }),
-}
+};
 
-export default CommitteePage
+export default OfficersPage;
 
-export const committeePageQuery = graphql`
-  query CommitteePage($id: String!) {
+export const OfficersPageQuery = graphql`
+  query OfficersPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
       frontmatter {
@@ -127,11 +109,12 @@ export const committeePageQuery = graphql`
                 gatsbyImageData(width: 240, quality: 100, layout: CONSTRAINED)
               }
             }
-            chair
-            text
+            position
+            name
+            bio
           }
         }
       }
     }
   }
-`
+`;
