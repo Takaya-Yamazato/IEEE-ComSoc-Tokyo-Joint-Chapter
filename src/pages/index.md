@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: IEEE ComSoc Tokyo (Joint) Chapter
+title: IEEE ComSoc Tokyo Joint Chapter
 image: /img/jumbotron.webp
 heading: IEEE ComSoc
 subheading: Sapporo/Shinetsu/Tokyo/Nagoya/Shikoku/Hiroshima/Fukuoka
