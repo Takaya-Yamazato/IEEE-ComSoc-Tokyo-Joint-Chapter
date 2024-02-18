@@ -7,7 +7,7 @@ module.exports = {
       facebook: `https://www.facebook.com/JapanOCWConsortium/`,
     },
   },
-  pathPrefix: `/owc2024`,
+  pathPrefix: `/IEEE-ComSoc-Tokyo-Joint-Chapter`,
   plugins: [
     "gatsby-plugin-image",
     {
