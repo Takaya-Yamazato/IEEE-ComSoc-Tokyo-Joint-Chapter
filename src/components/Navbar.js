@@ -56,7 +56,7 @@ const Navbar = class extends React.Component {
                 Officers
               </Link>
               <Link className="navbar-item" to="/blog/">
-                News and Announcements
+                Events
               </Link>
               <a className="navbar-item" href="https://www.ieee-jp.org/section/tokyo/chapter/COM-19/index.html" target="_blank" rel="noopener noreferrer">
                 Past events (to the previous site)

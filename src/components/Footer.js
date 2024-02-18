@@ -40,7 +40,7 @@ const Footer = class extends React.Component {
                   <ul className="menu-list">
                     <li>
                       <Link className="navbar-item" to="/blog/">
-                        News and Announcements
+                        Events
                       </Link>
                     </li>
                     <li>

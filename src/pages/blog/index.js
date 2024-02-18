@@ -24,7 +24,7 @@ export default class BlogIndexPage extends React.Component {
               padding: "1rem",
             }}
           >
-            News and Announcements
+            Events
           </h1>
         </div>
         <section className="section">
