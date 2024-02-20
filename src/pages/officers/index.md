@@ -32,7 +32,7 @@ intro:
 
 ### Officers (2021 - 2022)
 
-- Chair : Tomoaki Ohtsuki (Keio University)
+- Chair : [Tomoaki Ohtsuki (Keio University)](https://www.st.keio.ac.jp/en/tprofile/ics/otsuki.html)
 - Vice Chair : Takaya Yamazato (Nagoya University)
 - Secretary : Mianxiong Dong (Muroran Institute of Technology)
 - Treasurer : Noriaki Kamiyama (Ritsumeikan University)
