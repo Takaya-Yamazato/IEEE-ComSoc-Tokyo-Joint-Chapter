@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "IEEE-JC-COM",
+    title: "IEEE-ComSoc-Tokyo-Joint-Chapter",
     description: "IEEE ComSoc Sapporo/Shinetsu/Tokyo/Nagoya/Shikoku/Hiroshima/Fukuoka Joint Sections Chapter",
-    siteUrl: `https://yamazato.nuee.nagoya-u.ac.jp/IEEE-JC-COM/`,
+    siteUrl: `https://yamazato.nuee.nagoya-u.ac.jp/IEEE-ComSoc-Tokyo-Joint-Chapter/`,
     social: {
       facebook: `https://www.facebook.com/JapanOCWConsortium/`,
     },
