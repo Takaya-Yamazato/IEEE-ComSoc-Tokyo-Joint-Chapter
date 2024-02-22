@@ -58,7 +58,7 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/blog/">
                 Events
               </Link>
-              <a className="navbar-item" href="https://www.ieee-jp.org/section/tokyo/chapter/COM-19/index.html" target="_blank" rel="noopener noreferrer">
+              <a className="navbar-item" href="https://www.ieee-jp.org/section/tokyo/chapter/COM-19/com-19.html" target="_blank" rel="noopener noreferrer">
                 Past events (to the previous site)
               </a>
             </div>

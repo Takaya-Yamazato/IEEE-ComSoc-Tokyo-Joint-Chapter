@@ -44,6 +44,11 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
+                    <a className="navbar-item" href="https://www.ieee-jp.org/section/tokyo/chapter/COM-19/com-19.html" target="_blank" rel="noopener noreferrer">
+                Past events (to the previous site)
+              </a>
+                    </li>
+                    <li>
                       <a className="navbar-item" href="https://ieee-jp.org/" target="_blank" rel="noopener noreferrer" title="IEEE Japan Council">
                         IEEE Japan Council
                       </a>
