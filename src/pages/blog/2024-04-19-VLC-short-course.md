@@ -4,7 +4,7 @@ title: Short Course - Visible Light Communications and its Application
 date: 2024-3-19T19:42:10.000Z
 featuredpost: false
 featuredimage: /img/logo-image.png
-description: Visible Light Communications and its Application short course at Nagoya University
+description: We welcome A/Prof. Bastien Béchadergue from FRANCE to give a short course on Visible Light Communications. This event is organized by IEEE ComSoc Tokyo Joint Chapter and Yamazato Laboratory, Nagoya University, and supported by IEICE WBS Technical Committee, JPC Optical Wireless Subcommittee and IEEE Nagoya Section Education Activity.
 tags:
   - Short Course
   - Visible Light Communications and its Application
