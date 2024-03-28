@@ -16,7 +16,7 @@ tags:
 - 講師：[東京大学・高前田（山﨑）伸也 先生](https://sites.google.com/site/shinyaty/home-japanese)
 - 題目：信頼されるAIシステムを支えるコンピューティング技術
 - 主催：IEEE 名古屋支部 Education Activity，名古屋大学工学研究科情報・通信工学専攻
-- 後援：IEEE ComSoc Tokyo Joint Chapter，信学会東海支部（予定）
+- 後援：IEEE ComSoc Tokyo Joint Chapter，信学会東海支部
 
 ## タイトル：
 
