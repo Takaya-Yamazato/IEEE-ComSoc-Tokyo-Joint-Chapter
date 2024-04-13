@@ -14,9 +14,11 @@ tags:
 - Date: Friday, April 19, 14:00 - 17:00
 - Location: Faculty Conference Room, IB Denshi-Joho-kan 5F, Nagoya University.
   - See [Nagoya University interactive campus map (C3-1)](https://www.nagoya-u.ac.jp/extra/map/index.html).
+- [Please click here to register for online participation.](https://forms.gle/qouZzWsWW5XXdreG9)
 - Host: Prof. Takaya Yamazato
 - Organized by [IEEE ComSoc Tokyo Joint Chapter](https://yamazato.nuee.nagoya-u.ac.jp/IEEE-ComSoc-Tokyo-Joint-Chapter/) and [Nagoya University Yamazato Laboratory](https://yamazato.nuee.nagoya-u.ac.jp/en/)
 - Supported by [IEICE WBS Technical committee](https://www.ieice.org/~wbs/), [JPC Optical Wireless Subcommittee](http://j-photonics.org/vlca/en/), and [IEEE Nagoya Section Education Activity](https://ieee-jp.org/section/nagoya/)
+
 
 ### Tentative schedule
 
