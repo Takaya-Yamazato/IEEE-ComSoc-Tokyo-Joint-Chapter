@@ -11,7 +11,7 @@ tags:
   - 東京大学・高前田（山﨑）伸也　先生
 ---
 
-- 日時：4/17（木）16:00〜
+- 日時：4/17（水）16:00〜
 - 会場：[名古屋大学](https://www.nagoya-u.ac.jp/contact/directions.html)[IB電子情報館9階917輪講室](https://www.engg.nagoya-u.ac.jp/access/)
 - 講師：[東京大学・高前田（山﨑）伸也 先生](https://sites.google.com/site/shinyaty/home-japanese)
 - 題目：信頼されるAIシステムを支えるコンピューティング技術
