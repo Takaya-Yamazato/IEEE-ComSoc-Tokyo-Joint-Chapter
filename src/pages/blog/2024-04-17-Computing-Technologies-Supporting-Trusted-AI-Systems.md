@@ -4,7 +4,7 @@ title: 信頼されるAIシステムを支えるコンピューティング技�
 date: 2024-3-28T19:42:10.000Z
 featuredpost: false
 featuredimage: /img/logo-image.webp
-description: 東大・高前田先生をお招きしてAI時代に向けたコンピューティングについての講演会を開催します。こちらは，[IEEE名古屋支部](https://ieee-jp.org/section/nagoya/) Education Activity が企画した講演会で，IEEE ComSoc Tokyo Joint Chapter はこの講演会を後援します。どうぞ奮ってご参加下さい。
+description: 東大・高前田先生をお招きしてAI時代に向けたコンピューティングについての講演会を開催します。こちらは，IEEE名古屋支部 Education Activity が企画した講演会で，IEEE ComSoc Tokyo Joint Chapter はこの講演会を後援します。どうぞ奮ってご参加下さい。
 tags:
   - 後援
   - 講演会：信頼されるAIシステムを支えるコンピューティング技術
@@ -16,7 +16,7 @@ tags:
 - 講師：[東京大学・高前田（山﨑）伸也 先生](https://sites.google.com/site/shinyaty/home-japanese)
 - 題目：信頼されるAIシステムを支えるコンピューティング技術
 - 主催：IEEE 名古屋支部 Education Activity，名古屋大学工学研究科情報・通信工学専攻
-- 協賛：IEEE 名古屋支部
+- 協賛：[IEEE名古屋支部](https://ieee-jp.org/section/nagoya/)
 - 後援：IEEE ComSoc Tokyo Joint Chapter，信学会東海支部
 
 ## タイトル：
