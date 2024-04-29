@@ -20,13 +20,16 @@ tags:
 - Supported by [IEICE WBS Technical committee](https://www.ieice.org/~wbs/), [JPC Optical Wireless Subcommittee](http://j-photonics.org/vlca/en/), and [IEEE Nagoya Section Education Activity](https://ieee-jp.org/section/nagoya/)
 
 
-### Tentative schedule
+### Schedule
+Click the title to download the presentation slide.
 
-- 14:00 - 14:45 A/Prof. Bastien Béchadergue (Université de Versailles Saint-Quentin-en-Yvelines, FRANCE)
+- 14:00 - 14:45 [Optical Wireless Communications Research at LISV - An Overview -](20240419-Bastien-Bechadergue-Nagoya-University.pdf)
+  - A/Prof. Bastien Béchadergue (Université de Versailles Saint-Quentin-en-Yvelines, FRANCE)
 - Break (15 min)
 - 15:00 - 15:30 Dr. Chedlia BEN NAILA（Assit. Prof., Nagoya University）
 - 15:30 - 15:00 Mr. Iyoda (Ph.D. student, Nagoya University)
-- 16:00 - 16:30 Dr. Tang (post-doc, Nagoya University)
+- 16:00 - 16:30 [Light-Trail-based Parallel Transmission for Image Sensor Communication](20240419-VLC_ShortCourse_Tang.pdf)
+  - Dr. Zhengqiang TANG (post-doc, Nagoya University)
 - 16:30 - 17:00 Dr. Lu (lecturer, Nagoya University)
 
 ---
@@ -48,3 +51,10 @@ Optical Wireless Communications Research at LISV: An Overview
 The Laboratoire d'Ingénierie des Systèmes de Versailles (LISV), which is part of the UVSQ-Université Paris-Saclay, has worked on optical wireless communications (OWC) since 2007, giving birth in 2012 to the spin-off company Oledcomm, which is now among the leaders in the development of OWC and LiFi products. After many years of research on OWC for vehicular applications, the lab has lately focused its efforts on indoor applications, with topics ranging from modulations and multi-user schemes, to positioning and beamsteering.In this presentation, an overview of the LISV environment (Université Paris-Saclay, research activities other than OWC, Oledcomm etc.) and of its current research activites on OWC, mainly related to integrated sensing and communication as well as optical beamsteering, will be provided.
 
 ---
+
+## Report
+
+The Short Course - Visible Light Communications and its Application held on 19 April was a great success.
+About 25 people attended, 15 in person and nine online. We would like to thank all those who attended.
+Please find the slides provided by the speakers below. 
+We plan to organize more such lectures in the future.
