@@ -26,7 +26,8 @@ Click the title to download the presentation slide.
 - 14:00 - 14:45 [Optical Wireless Communications Research at LISV - An Overview -](20240419-Bastien-Bechadergue-Nagoya-University.pdf)
   - A/Prof. Bastien Béchadergue (Université de Versailles Saint-Quentin-en-Yvelines, FRANCE)
 - Break (15 min)
-- 15:00 - 15:30 Dr. Chedlia BEN NAILA（Assit. Prof., Nagoya University）
+- 15:00 - 15:30 Optical Wireless Communications Toward B5G networks: From Terrestrial to Underwater Scenarios
+  - Dr. Chedlia BEN NAILA（Assit. Prof., Nagoya University）
 - 15:30 - 15:00 Mr. Iyoda (Ph.D. student, Nagoya University)
 - 16:00 - 16:30 [Light-Trail-based Parallel Transmission for Image Sensor Communication](20240419-VLC_ShortCourse_Tang.pdf)
   - Dr. Zhengqiang TANG (post-doc, Nagoya University)
@@ -56,5 +57,7 @@ The Laboratoire d'Ingénierie des Systèmes de Versailles (LISV), which is part 
 
 The Short Course - Visible Light Communications and its Application held on 19 April was a great success.
 About 25 people attended, 15 in person and nine online. We would like to thank all those who attended.
-Please find the slides provided by the speakers below. 
+
+Please find the slides provided by the speakers. 
+
 We plan to organize more such lectures in the future.
