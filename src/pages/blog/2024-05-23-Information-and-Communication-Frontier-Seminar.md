@@ -5,6 +5,7 @@ date: 2024-5-23T19:42:10.000Z
 featuredpost: false
 featuredimage: /img/logo-image.webp
 description: 8月27日（火）に名古屋工業大学 NITech Hall（ナイテック・ホール）にて情報通信フロンティアセミナーが開催されます
+tags:
   - 後援
   - 情報通信フロンティアセミナー～「はやぶさ２」からの宇宙開発を考えよう～
 ---
