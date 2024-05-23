@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 信頼されるAIシステムを支えるコンピューティング技術
+title: 後援 - 信頼されるAIシステムを支えるコンピューティング技術
 date: 2024-3-28T19:42:10.000Z
 featuredpost: false
 featuredimage: /img/logo-image.webp
