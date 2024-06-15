@@ -6,9 +6,10 @@ import { FaWifi } from "@react-icons/all-files/fa/FaWifi";
 const Footer = class extends React.Component {
   render() {
     return (
-      <footer className="footer has-background-black has-text-white-ter">
+      <footer className="footer has-background-link-dark">
+        <hr />
         <div className="content has-text-centered">
-          <h1 className="is-size-3 has-text-white-ter">IEEE ComSoc Tokyo Joint Chapter</h1>
+          <h1 className="is-size-3">IEEE ComSoc Tokyo Joint Chapter</h1>
         </div>
         <div className="content">
           <div className="container">

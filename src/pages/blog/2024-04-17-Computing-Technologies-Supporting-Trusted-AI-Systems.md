@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 後援 - 信頼されるAIシステムを支えるコンピューティング技術
-date: 2024-3-28T19:42:10.000Z
+date: 2024-4-17T19:42:10.000Z
 featuredpost: false
 featuredimage: /img/logo-image.webp
 description: 東大・高前田先生をお招きしてAI時代に向けたコンピューティングについての講演会を開催します。こちらは，IEEE名古屋支部 Education Activity が企画した講演会で，IEEE ComSoc Tokyo Joint Chapter はこの講演会を後援します。どうぞ奮ってご参加下さい。
