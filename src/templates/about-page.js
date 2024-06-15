@@ -15,6 +15,7 @@ const AboutPageTemplate = ({ title, image, content, contentComponent }) => {
           // backgroundImage: `url('${withPrefix("/")}img/ashirani-murata-rQgqf6ynkP8-unsplash.webp')`,
           // backgroundImage: `url('${withPrefix("/")}img/IMG_6655.webp')`,
           backgroundImage: `url('${withPrefix("/")}img/IMG_4412.webp')`,
+          // backgroundImage: `url('${withPrefix("/")}img/IMG_6695.webp')`,
         }}
       >
         <h2
