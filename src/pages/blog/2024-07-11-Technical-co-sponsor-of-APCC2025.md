@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Technical co-sponsor of APCC2025 to be held in Osaka, Japan
-date: 2024-12-16T19:42:10.000Z
+date: 2025-11-25T19:42:10.000Z
 featuredpost: false
 featuredimage: /img/logo-image.webp
 description: We are delighted to announce that we will be providing technical support for the upcoming APCC conference, scheduled to take place in November 2025 in Osaka, Japan.
