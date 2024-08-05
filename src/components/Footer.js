@@ -7,15 +7,14 @@ const Footer = class extends React.Component {
   render() {
     return (
       <footer className="footer">
-        <hr />
         <div className="content has-text-centered">
-          <h1 className="is-size-3">IEEE ComSoc Tokyo Joint Chapter</h1>
+          <h1 className="has-text-white is-size-3">IEEE ComSoc Tokyo Joint Chapter</h1>
         </div>
         <div className="content">
           <div className="container">
             <div style={{ maxWidth: "100vw" }} className="columns">
               <div className="column is-4">
-                <section className="menu">
+                <section>
                   <ul className="menu-list">
                     <li>
                       <Link to="/" className="navbar-item">
