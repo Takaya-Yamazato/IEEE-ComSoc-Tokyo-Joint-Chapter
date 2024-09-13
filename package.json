@@ -38,7 +38,7 @@
     "build": "gatsby clean && gatsby build --prefix-paths",
     "develop": "gatsby clean && gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
-    "update w/o bulma": "rm -rf node_modules yarn.lock && npm install",
+    "update w/o bulma": "rm -rf node_modules yarn.lock package.lock && npm install",
     "package update": "ncu -u && rm -rf node_modules yarn.lock package.lock && npm install && npm build"
   },
   "devDependencies": {
