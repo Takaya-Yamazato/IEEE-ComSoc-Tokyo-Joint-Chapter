@@ -12,9 +12,10 @@ tags:
 
 The APCC (Asia-Pacific Conference on Communications) is an esteemed international forum with a focus on communications and information technology. Since 1993, it has been held in 10 different Asia-Pacific (AP) countries.
 
-Please submit your work to APCC2025.
+Please submit your work to [APCC2025](https://www.ieice.org/cs/apcc/).
 
-## APCC (Asia-Pacific Conference on Communications)
+## [APCC (Asia-Pacific Conference on Communications)](https://www.ieice.org/cs/apcc/)
+- https://www.ieice.org/cs/apcc/
 - Date: November 25th - 28th, 2025
 - Venue: I-site Namba, Osaka Metropolitan University, Osaka, Japan
 - Important Dates (tentative)

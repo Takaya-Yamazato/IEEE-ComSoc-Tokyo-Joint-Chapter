@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "gatsby";
 // import logo from "../img/logo.svg";
-import github from "../img/github-icon.svg";
+// import github from "../img/github-icon.svg";
 import { FaWifi } from "@react-icons/all-files/fa/FaWifi";
 
 const Footer = class extends React.Component {
@@ -56,15 +56,15 @@ const Footer = class extends React.Component {
                   </ul>
                 </section>
               </div>
-              <div className="column is-4 social">
+              {/* <div className="column is-4 social">
               <a className="navbar-item" href="https://github.com/Takaya-Yamazato/IEEE-ComSoc-Tokyo-Joint-Chapter" target="_blank" rel="noopener noreferrer">
                 <span className="icon">
                   <img src={github} alt="Github" />
                 </span>
               </a>
-            </div>
+            </div> */}
               <div className="column is-4 social">
-                <a className="navbar-item" href="https://yamazato.nuee.nagoya-u.ac.jp/en/" target="_blank" rel="noopener noreferrer" title="Nagoya University Yamazato Laboratory">
+                <a className="navbar-item has-text-link-dark" href="https://yamazato.nuee.nagoya-u.ac.jp/en/" target="_blank" rel="noopener noreferrer" title="Nagoya University Yamazato Laboratory">
                   <FaWifi />
                   &nbsp;&nbsp;Yamazato Laboratory
                 </a>
