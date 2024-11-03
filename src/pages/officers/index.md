@@ -3,7 +3,7 @@ templateKey: "officers"
 path: /officers
 title: Officers
 image: /img/jumbotron.webp
-heading: Officers (2023 - 2024)
+heading: Officers (2023, 2024-2025)
 description: >-
   IEEE ComSoc Tokyo (Joint) Chapter
 intro:
