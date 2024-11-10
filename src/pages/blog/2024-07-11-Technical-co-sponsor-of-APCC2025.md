@@ -17,7 +17,7 @@ Please submit your work to [APCC2025](https://www.ieice.org/cs/apcc/).
 ## [APCC (Asia-Pacific Conference on Communications)](https://www.ieice.org/cs/apcc/)
 - https://www.ieice.org/cs/apcc/
 - Date: November 25th - 28th, 2025
-- Venue: I-site Namba, Osaka Metropolitan University, Osaka, Japan
+- Venue: [I-site Namba](https://www.omu.ac.jp/isite/), [Osaka Metropolitan University](https://www.omu.ac.jp/en/), Osaka, Japan
 - Important Dates (tentative)
     - Paper Submission: Jun. 25th, 2025
     - Acceptance Notification: Oct. 6th, 2025
