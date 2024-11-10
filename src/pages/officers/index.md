@@ -3,7 +3,7 @@ templateKey: "officers"
 path: /officers
 title: Officers
 image: /img/jumbotron.webp
-heading: Officers (2023, 2024-2025)
+heading: Officers (2024-2025)
 description: >-
   IEEE ComSoc Tokyo (Joint) Chapter
 intro:
@@ -30,7 +30,7 @@ intro:
         received the M. E. and Ph. D. degrees from Kwansei Gakuin University, Japan, in 2017 and 2020, respectively. He is currently a lecturer at Faculty of Engineering, Fukuoka University, Japan. His research area is designing, analyzing, and understanding information network and communication network. He is a member of IEEE, IEICE, and IPSJ.
 ---
 
-### Officers (2021 - 2022)
+### Officers (2021 - 2022, 2023)
 
 - Chair : [Tomoaki Ohtsuki (Keio University)](https://www.st.keio.ac.jp/en/tprofile/ics/otsuki.html)
 - Vice Chair : Takaya Yamazato (Nagoya University)
