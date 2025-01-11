@@ -9,6 +9,7 @@ module.exports = {
   },
   pathPrefix: `/IEEE-ComSoc-Tokyo-Joint-Chapter`,
   plugins: [
+    `gatsby-plugin-sitemap`,
     "gatsby-plugin-image",
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
