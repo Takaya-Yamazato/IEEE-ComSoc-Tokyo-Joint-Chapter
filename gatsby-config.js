@@ -9,6 +9,12 @@ module.exports = {
   },
   pathPrefix: `/IEEE-ComSoc-Tokyo-Joint-Chapter`,
   plugins: [
+    {
+      resolve: `gatsby-plugin-canonical-urls`,
+      options: {
+        siteUrl: `https://yamazato.nuee.nagoya-u.ac.jp/IEEE-ComSoc-Tokyo-Joint-Chapter/`,
+      },
+    },
     `gatsby-plugin-sitemap`,
     "gatsby-plugin-image",
     {
