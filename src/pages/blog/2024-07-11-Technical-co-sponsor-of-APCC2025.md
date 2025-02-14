@@ -18,8 +18,11 @@ Please submit your work to [APCC2025](https://www.ieice.org/cs/apcc/).
 - https://www.ieice.org/cs/apcc/
 - Date: November 25th - 28th, 2025
 - Venue: [I-site Namba](https://www.omu.ac.jp/isite/), [Osaka Metropolitan University](https://www.omu.ac.jp/en/), Osaka, Japan
-- Important Dates (tentative)
-    - Paper Submission: Jun. 25th, 2025
-    - Acceptance Notification: Oct. 6th, 2025
-    - Registration Deadline: To be determined
-    - Conference Date: Nov. 25th-28th, 2025
+- Important Dates    
+    - Special Session Proposal Submission: Apr. 1st, 2025
+    - Manuscript Submission: Jun. 5th, 2025
+    - Tutorial Proposal Submission: Jul. 31st, 2025
+    - Notification of Acceptance: Sep. 10th, 2025
+    - Camera-ready Submission: Oct. 15th, 2025
+    - Conference Date: Nov. 26th-28th, 2025
+
