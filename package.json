@@ -1,7 +1,7 @@
 {
   "name": "ieee-comsoc-tokyo-joint-chapter",
   "description": "IEEE ComSoc Sapporo/Shinetsu/Tokyo/Nagoya/Shikoku/Hiroshima/Fukuoka Joint Sections Chapter",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "author": "Takaya Yamazato",
   "dependencies": {
     "@react-icons/all-files": "^4.1.0",
