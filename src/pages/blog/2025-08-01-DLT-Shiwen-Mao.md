@@ -26,8 +26,10 @@ tags:
 
 
 オンラインでの聴講参加も募集します。
+
 参加希望の方は、以下のURLからお申し込みください。
 登録された方には、後日ZoomのURLをお送りします。
+
 https://forms.gle/3pwLoSD1qcVTtx54A
 
 
