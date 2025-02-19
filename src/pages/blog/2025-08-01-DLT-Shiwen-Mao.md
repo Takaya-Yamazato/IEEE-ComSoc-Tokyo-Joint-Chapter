@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: DLT at Ritsumeikan University (08/08) and Nagoya University (08/01)
+date: 2025-02-19T19:42:10.000Z
 featuredpost: false
 featuredimage: /img/logo-image.webp
 description: DLT by Prof. Shiwen Mao, Auburn University at Ritsumeikan University and Nagoya University.
@@ -9,7 +10,6 @@ tags:
   - Generative AI-empowered RF sensing for 3D human pose tracking, augmentation and completion
   - Prof. Shiwen Mao, Auburn University
 ---
-
 
 ## DLT at Nagoya University
 - Date: Friday, 1 August 2025
