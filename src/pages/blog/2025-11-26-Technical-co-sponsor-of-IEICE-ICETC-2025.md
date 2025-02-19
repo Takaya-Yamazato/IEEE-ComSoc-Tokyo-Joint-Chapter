@@ -14,9 +14,10 @@ The [6th IEICE-CS International Conference on Emerging Technologies for Communic
 
 This conference will be co-located with [APCC2025](https://www.ieice.org/cs/apcc/), and certain events will be held jointly.
 
+## [The 6th IEICE-CS International Conference on Emerging Technologies for Communications (IEICE ICETC 2025)](https://www.ieice.org/cs/icetc/index.html)
+
 **Conference Details:**
-- [The 6th IEICE-CS International Conference on Emerging Technologies for Communications (IEICE ICETC 2025)](https://www.ieice.org/cs/icetc/index.html)
-  - https://www.ieice.org/cs/icetc/index.html
+- https://www.ieice.org/cs/icetc/index.html
 - **Date:** November 26-28, 2025
 - **Venue:** [I-site Namba](https://www.omu.ac.jp/isite/), [Osaka Metropolitan University](https://www.omu.ac.jp/en/), Osaka, Japan
 
