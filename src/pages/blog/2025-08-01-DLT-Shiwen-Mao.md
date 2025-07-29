@@ -13,8 +13,8 @@ tags:
 
 ## DLT at Nagoya University
 - Date: Friday, 1 August 2025
-- Time: 13:00-
-- Location: Faculty Conference Room, IB Denshi-Joho-kan 5F, Nagoya University.
+- Time: 16:00-
+- Location: Yamazato Laboratory, IB Denshi-Joho-kan 9F, Nagoya University.
   - See [Nagoya University interactive campus map (C3-1)](https://www.nagoya-u.ac.jp/extra/map/index.html).
 - Host: [Prof Takaya Yamazato](/officers)
 
