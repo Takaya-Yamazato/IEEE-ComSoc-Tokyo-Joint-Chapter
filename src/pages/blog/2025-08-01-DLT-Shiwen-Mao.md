@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: DLT at Ritsumeikan University (08/08) and Nagoya University (08/01)
-date: 2025-02-09T19:42:10.000Z
+date: 2025-07-29T10:42:10.000Z
 featuredpost: false
 featuredimage: /img/logo-image.webp
 description: DLT by Prof. Shiwen Mao, Auburn University at Ritsumeikan University and Nagoya University.
