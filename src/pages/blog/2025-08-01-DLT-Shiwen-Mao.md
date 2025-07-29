@@ -15,7 +15,7 @@ tags:
 <span style="color: red; ">The time and venue have been changed.</span>
 - Date: Friday, 1 August 2025
 - Time: <span style="color: red; ">16:00- </span>
-- Location: Yamazato Laboratory, IB Denshi-Joho-kan North 9F, Nagoya University.
+- Location: <span style="color: red; ">Yamazato Laboratory, IB Denshi-Joho-kan North 9F</span>, Nagoya University.
   - See [Nagoya University interactive campus map (C3-1)](https://www.nagoya-u.ac.jp/extra/map/index.html).
 - Host: [Prof Takaya Yamazato](/officers)
 
