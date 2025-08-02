@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: DLT at Ritsumeikan University (08/08) and Nagoya University (08/01)
-date: 2025-02-09T19:42:10.000Z
+date: 2025-07-29T10:42:10.000Z
 featuredpost: false
 featuredimage: /img/logo-image.webp
 description: DLT by Prof. Shiwen Mao, Auburn University at Ritsumeikan University and Nagoya University.
@@ -12,9 +12,10 @@ tags:
 ---
 
 ## DLT at Nagoya University
+<span style="color: red; ">The time and venue have been changed.</span>
 - Date: Friday, 1 August 2025
-- Time: 13:00-
-- Location: Faculty Conference Room, IB Denshi-Joho-kan 5F, Nagoya University.
+- Time: <span style="color: red; ">16:00- </span>
+- Location: <span style="color: red; ">Yamazato Laboratory, IB Denshi-Joho-kan North 9F</span>, Nagoya University.
   - See [Nagoya University interactive campus map (C3-1)](https://www.nagoya-u.ac.jp/extra/map/index.html).
 - Host: [Prof Takaya Yamazato](/officers)
 
