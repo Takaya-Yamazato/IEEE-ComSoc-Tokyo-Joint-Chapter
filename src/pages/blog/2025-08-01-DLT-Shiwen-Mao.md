@@ -51,12 +51,12 @@ https://www.eng.auburn.edu/users/szm0001/
 
 ## Report:
 
-We were pleased to welcome Prof. Shiwen Mao from Auburn University to my laboratory at Nagoya University. His talk was both informative and inspiring. 
+The Yamazato Laboratory at Nagoya University hosted Prof. Shiwen Mao from Auburn University and held IEEE ComSoc DLT. This was an event organized by the IEEE ComSoc Tokyo Joint Chapter. Today, Nagoya experienced record-breaking heat, with temperatures reaching 40 degrees Celsius, but we are grateful that Prof. Mao made the trip from Tokyo despite the extreme conditions. Prof. Mao's presentation on his research in AI-emporwe RF sensing was highly engaging and thought-provoking. While details are omitted here, we have included the presentation materials provided by Prof. Mao for reference.
 
 ![DLT by Prof. Shiwen Mao, Auburn University](./2025-08-01-DLT-by-Prof-Shiwen-Mao-Auburn-University.webp)
 ![DLT by Prof. Shiwen Mao, Auburn University](./2025-08-01-DLT-by-Prof-Shiwen-Mao-Auburn-University-2.webp)
 
-He kindly allowed us to share his presentation [slides](./2025-08-01-ComSoc_DL_Tour_NaggoyaUniv.pdf).
+#### [Presentation slides](./2025-08-01-ComSoc_DL_Tour_NaggoyaUniv.pdf)
 
 - [GENERATIVE AI-EMPOWERED RF SENSING FOR 3D HUMAN POSE TRACKING, AUGMENTATION AND COMPLETION](./2025-08-01-ComSoc_DL_Tour_NaggoyaUniv.pdf)
 - Nagoya University, Nagoya, Japan & IEEE ComSoc Tokyo (Joint) Chapter
