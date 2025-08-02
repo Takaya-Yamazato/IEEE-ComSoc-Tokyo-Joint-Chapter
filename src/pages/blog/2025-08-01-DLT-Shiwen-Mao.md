@@ -22,7 +22,7 @@ tags:
 - Date: Friday, 8 August 2025
 - Time: 14:00-
 - Host: [Prof Noriaki Kamiyama](/officers/)
-- Location: 
+- Location: H906 room on the 9th floor of Building H in the Osaka Ibaraki Campus (OIC) of the Ritsumeikan Univ.
 
 
 オンラインでの聴講参加も募集します。
