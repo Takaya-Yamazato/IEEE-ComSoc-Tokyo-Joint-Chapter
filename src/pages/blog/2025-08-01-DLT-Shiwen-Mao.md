@@ -47,3 +47,18 @@ In recent years, 3D human activity recognition (HAR) has become an important top
 ### Bio: 
 Shiwen Mao is a Professor and Earle C. Williams Eminent Scholar and Director of the Wireless Engineering Research and Education Center at Auburn University. Dr. Mao's research interest includes wireless networks, multimedia communications, RF sensing and IoT, smart health, and smart grid. He is the editor-in-chief of IEEE Transactions on Cognitive Communications and Networking, a member-at-large on the Board of Governors of IEEE Communications Society, and Vice President of Technical Activities of IEEE Council on Radio Frequency Identification (CRFID). He received the IEEE ComSoc MMTC Outstanding Researcher Award in 2023, the SEC 2023 Faculty Achievement Award for Auburn, the IEEE ComSoc TC-CSR Distinguished Technical Achievement Award in 2019, the Auburn University Creative Research & Scholarship Award in 2018, the NSF CAREER Award in 2010, and several service awards from IEEE ComSoc. He is a co-recipient of the 2022 Best Journal Paper Award of IEEE ComSoc eHealth Technical Committee, the 2021 Best Paper Award of Elsevier/KeAi Digital Communications and Networks Journal, the 2021 IEEE Internet of Things Journal Best Paper Award, the 2021 IEEE Communications Society Outstanding Paper Award, the IEEE Vehicular Technology Society 2020 Jack Neubauer Memorial Award, the 2018 Best Journal Paper Award and the 2017 Best Conference Paper Award from IEEE ComSoc MMTC, and the 2004 IEEE Communications Society Leonard G. Abraham Prize in the Field of Communications Systems. He is a co-recipient of the Best Paper/Demo Awards of 12 conferences. He is a Fellow of the IEEE. 
 https://www.eng.auburn.edu/users/szm0001/
+
+
+## Report:
+
+We were pleased to welcome Prof. Shiwen Mao from Auburn University to my laboratory at Nagoya University. His talk was both informative and inspiring. 
+
+![DLT by Prof. Shiwen Mao, Auburn University](./2025-08-01-DLT-by-Prof-Shiwen-Mao-Auburn-University.webp)
+![DLT by Prof. Shiwen Mao, Auburn University](./2025-08-01-DLT-by-Prof-Shiwen-Mao-Auburn-University-2.webp)
+
+He kindly allowed us to share his presentation [slides](./2025-08-01-ComSoc_DL_Tour_NaggoyaUniv.pdf).
+
+- [GENERATIVE AI-EMPOWERED RF SENSING FOR 3D HUMAN POSE TRACKING, AUGMENTATION AND COMPLETION](./2025-08-01-ComSoc_DL_Tour_NaggoyaUniv.pdf)
+- Nagoya University, Nagoya, Japan & IEEE ComSoc Tokyo (Joint) Chapter
+- Shiwen Mao, Auburn University
+  - Joint work with: Ziqi Wang, Chao Yang, and Xuyu Wang
