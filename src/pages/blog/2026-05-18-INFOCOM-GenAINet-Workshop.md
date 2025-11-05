@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Technical co-sponsor of INFOCOM 2026 Workshop - GenAINet - Generative AI for Next-Generation Networking and Communications
-date: 2025-11-25T19:42:10.000Z
+date: 2026-5-18T19:42:10.000Z
 featuredpost: false
 featuredimage: /img/logo-image.webp
 description: We are excited to announce our technical co-sponsorship of the INFOCOM 2026 Workshop titled "GenAINet -  Generative AI for Next-Generation Networking and Communications," scheduled to take place in Tokyo, Japan, from May 18 to May 21, 2026.
@@ -20,9 +20,9 @@ tags:
 For more details about INFOCOM 2026 and GenAINet, please visit the official website at [https://infocom2026.ieee-infocom.org/](https://infocom2026.ieee-infocom.org/).
 
 **General Co-Chairs:**
-- Tomoaki Ohtsuki (Keio University, Japan). Email: ohtsuki@keio.jp
-- Zhu Han (University of Houston, USA). Email: zhan2@central.uh.edu
-- Octavia Dobre (Memorial University, Canada). Email: odobre@mun.ca
+- Tomoaki Ohtsuki (Keio University, Japan). 
+- Zhu Han (University of Houston, USA). 
+- Octavia Dobre (Memorial University, Canada). 
 
 **Scope and Topics of the Workshop:**
 
