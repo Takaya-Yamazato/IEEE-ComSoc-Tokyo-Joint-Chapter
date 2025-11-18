@@ -10,6 +10,9 @@ tags:
   - INFOCOM 2026 Workshop - GenAINet
 ---
 
+Below, you can find the call for paper.
+
+-----
 
 # IEEE INFOCOM 2026 Workshop on Generative AI for Next-Generation Networking and Communications (GenAINet)
 
