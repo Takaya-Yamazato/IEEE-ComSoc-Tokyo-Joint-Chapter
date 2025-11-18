@@ -10,31 +10,54 @@ tags:
   - INFOCOM 2026 Workshop - GenAINet
 ---
 
-# GenAINet: Generative AI for Next-Generation Networking and Communications
 
-**Important Dates:**
-- **July 24, 2025:** Abstract Submission Deadline
-- **July 31, 2025:** Paper Submission Deadline
-- **December 8, 2025:** Acceptance Notification
+# IEEE INFOCOM 2026 Workshop on Generative AI for Next-Generation Networking and Communications (GenAINet)
 
-For more details about INFOCOM 2026 and GenAINet, please visit the official website at [https://infocom2026.ieee-infocom.org/](https://infocom2026.ieee-infocom.org/).
+- May 18, 2026, Tokyo, Japan
+- Paper submission deadline: December 29, 2025
 
-**General Co-Chairs:**
-- Tomoaki Ohtsuki (Keio University, Japan). 
-- Zhu Han (University of Houston, USA). 
-- Octavia Dobre (Memorial University, Canada). 
+- https://infocom2026.ieee-infocom.org/workshop-generative-ai-next-generation-networking-and-communications-genainet-call-papers
 
-**Scope and Topics of the Workshop:**
+## Scope and Topics of Interest:
+The potential of generative AI (GenAI) in networking extends beyond optimizing existing protocols, prompting us to ask a fundamental question: What will the role of communication networks be when intelligent devices can generate data and content locally? This invites us to rethink networking, transitioning from a service that transports bits to one that can generate and communicate information. This workshop provides a forum for presenting and discussing early-stage research, novel ideas, and experimental results at the intersection of generative AI and networking. The scope of the workshop is to explore the relationship between these two fields. We will investigate how breakthroughs in generative models can address challenges in network design, operation, and security. We will also examine how networks themselves must evolve to provide the infrastructure required to support emerging generative AI services.
 
-The rise of large-scale generative models, such as diffusion models, GANs, and LLMs, has transformed the field of machine learning and opened new avenues in networking. While traditional AI has largely focused on classification and prediction, generative AI (GenAI) presents opportunities for innovation in areas like automated network architecture, synthetic data generation, and adaptive network optimization.
+We solicit papers from areas including but not limited to:
 
-As intelligent devices increasingly generate data locally, we must rethink the role of communication networks, shifting from mere data transport to active information generation.
+- GenAI-native network architectures and protocols
+- GenAI for wireless communications and signal processing
+- GenAI for wireless channel modeling, estimation, and sensing
+- GenAI-based generative waveform design and optimization
+- GenAI-enabled semantic and goal-oriented communication protocols
+- Lightweight/efficient GenAI models for resource-constrained network devices (IoT, edge)
+- Resource management and QoE for GenAI services
+- Distributed and federated GenAI over networks (training and inference)
+- Novel QoE metrics and measurement techniques for generative services
+- Security, privacy, and trust in GenAI networks
+- GenAI-driven network operations and applications
+- GenAI for synthetic traffic/data generation for network simulation and digital twins
 
-GenAINet 2026 will serve as a platform for discussing early-stage research and experimental results at the intersection of generative AI and networking. The workshop will explore how advancements in generative models can address challenges in network design, operations, and security, and how networks must evolve to support GenAI services.
+## Submission Guidelines:
 
-**Key Topics Include:**
-- GenAI-Native Network Architectures and Protocols
-- Resource Management and Quality of Experience (QoE) for GenAI Services
-- Distributed and Federated GenAI over Networks
-- Security, Privacy, and Trust in GenAI Networks
-- GenAI-Driven Network Operations and Applications
+We call for original and unpublished papers, which must be formatted in the standard IEEE two-column format that is used by the INFOCOM 2026 main conference, and must not exceed six pages in length (including references). All submitted papers will go through a strict peer review process, and all accepted papers that are presented by one of the authors at the workshop will be published in the IEEE INFOCOM 2026 workshop proceedings and IEEE Xplore.
+
+Papers must be submitted electronically via EDAS: https://edas.info/N34635
+
+### Important Dates:
+- Submission deadline: December 29, 2025
+- Acceptance notification: February 2, 2026
+- Camera ready: February 16, 2026
+- Workshop Date: May 18, 2026
+
+### General Co-Chairs:
+- Tomoaki Ohtsuki, Keio University, Japan
+- Zhu Han, University of Houston, USA
+- Octavia Dobre, Memorial University, Canada
+
+### Publicity Chair:
+- Yue Yin, Keio University, Japan
+
+### Technical Program Committee Co-Chairs:
+- Anders E. Kalør, Keio University, Japan
+- Chen-Nee Chuah, University of California, Davis, USA
+- Miao Pan, University of Houston, USA
+- Trung Q. Duong, Memorial University, Canada
