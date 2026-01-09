@@ -1,7 +1,7 @@
 {
   "name": "ieee-comsoc-tokyo-joint-chapter",
   "description": "IEEE ComSoc Sapporo/Shinetsu/Tokyo/Nagoya/Shikoku/Hiroshima/Fukuoka Joint Sections Chapter",
-  "version": "1.0.8",
+  "version": "1.1.0",
   "author": "Takaya Yamazato",
   "dependencies": {
     "@react-icons/all-files": "^4.1.0",
@@ -26,7 +26,7 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-helmet": "^6.1.0",
-    "sass": "^1.94.1",
+    "sass": "^1.97.2",
     "uuid": "^13.0.0"
   },
   "keywords": [
@@ -44,7 +44,7 @@
     "package update": "ncu -u && rm -rf node_modules yarn.lock package.lock && npm install && npm run build"
   },
   "devDependencies": {
-    "prettier": "^3.6.2"
+    "prettier": "^3.7.4"
   },
   "engines": {
     "node": ">= 20.18.0"
