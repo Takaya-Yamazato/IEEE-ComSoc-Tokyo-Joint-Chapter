@@ -24,7 +24,7 @@ Below, you can find the call for paper.
 ## Scope and Topics of Interest:
 The potential of generative AI (GenAI) in networking extends beyond optimizing existing protocols, prompting us to ask a fundamental question: What will the role of communication networks be when intelligent devices can generate data and content locally? This invites us to rethink networking, transitioning from a service that transports bits to one that can generate and communicate information. This workshop provides a forum for presenting and discussing early-stage research, novel ideas, and experimental results at the intersection of generative AI and networking. The scope of the workshop is to explore the relationship between these two fields. We will investigate how breakthroughs in generative models can address challenges in network design, operation, and security. We will also examine how networks themselves must evolve to provide the infrastructure required to support emerging generative AI services.
 
-We solicit papers from areas including but not limited to:
+We solicit papers from areas including but not limited to :
 
 - GenAI-native network architectures and protocols
 - GenAI for wireless communications and signal processing
