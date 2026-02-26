@@ -1,0 +1,38 @@
+---
+templateKey: blog-post
+title: DLT at Keio University (03/25) 
+date: 2026-03-25 T10:42:10.000Z
+featuredpost: false
+featuredimage: /img/logo-image.webp
+description: DLT by Prof. zhi ding
+tags:
+  - Distinguish Lecture Tour (DLT)
+
+---
+<!-- 08/8 Keio University (hostは大槻先生)-->
+
+## DLT at Keio University
+
+
+# Title: Exploring Generative AI for Future Wireless Communications
+
+- Date and time: March 25, 10:30-11:30
+- Location: Discussion room 9 (14-219), Keio University - Faculty of Science and Technology, Tokyo, Japan
+- Speaker: Prof. Zhi Ding, University of California, Davis
+
+
+### Abstract:
+The recent wave of progress in generative artificial intelligence (AI)
+has stimulated numerous novel concepts and achieved phenomenal success
+in modern applications, including ChatGPT. Beyond its critical role in
+content generation for computer vision and natural language processing,
+generative AI presents profound opportunities and unlimited potential in
+wireless communications and networking. In this talk, we systematically
+address the tremendous potential and opportunities presented by the
+emergence and integration of generative AI in high-efficiency and
+contextual communication networks. We present a transformative design of
+a future go-oriented contextual communication framework enabled by
+generative models of stable diffusion. Specifically, we deliver clear
+design and implementation steps, analyze properties and performances,
+and expand on potential future extensions 
+
