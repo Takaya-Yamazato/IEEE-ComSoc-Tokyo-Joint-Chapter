@@ -26,8 +26,8 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-helmet": "^6.1.0",
-    "sass": "^1.101.0",
-    "uuid": "^14.0.0"
+    "sass": "^1.104.0",
+    "uuid": "^14.0.2"
   },
   "keywords": [
     "gatsby"
@@ -41,10 +41,10 @@
     "develop": "gatsby clean && gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
     "update w/o ncu -u": "rm -rf node_modules yarn.lock package.lock && npm install && npm run build",
-    "package update": "ncu -u && rm -rf node_modules yarn.lock package.lock && npm install && npm run build"
+    "package update": "ncu -u -x react,react-dom && rm -rf node_modules yarn.lock package.lock && npm install && npm run build"
   },
   "devDependencies": {
-    "prettier": "^3.8.4"
+    "prettier": "^3.9.6"
   },
   "engines": {
     "node": ">= 20.18.0"
