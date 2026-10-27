@@ -10,4 +10,7 @@ subheading: Sapporo/Shinetsu/Tokyo/Nagoya/Shikoku/Hiroshima/Fukuoka
 
 We are a collective [chapter](https://ieee-jp.org/activity/chapter/soc.html) under [IEEE ComSoc](https://www.comsoc.org/), comprising seven sections across Japan: [Sapporo, Shinetsu, Tokyo, Nagoya, Shikoku, Hiroshima, and Fukuoka](https://www.ieee-jp.org/section/tokyo/chapter/COM-19/). 
 
-**Upcoming:** [DLT by Prof. Ali C. Begen at University of Electro-Communications (October 2, 2026)](https://yamazato.nuee.nagoya-u.ac.jp/IEEE-ComSoc-Tokyo-Joint-Chapter/blog/2026-10-02-DLT-Ali-Begen-UEC/)
+**Upcoming DLT lectures by Prof. Byonghyo Shim (Seoul National University):**
+
+- [Keio University — November 24, 2026: Robot communication for Physical AI era](https://yamazato.nuee.nagoya-u.ac.jp/IEEE-ComSoc-Tokyo-Joint-Chapter/blog/2026-11-24-DLT-Byonghyo-Shim-Keio/)
+- [Chiba University — November 25, 2026: Task-oriented Token Communications for Humanoid and Robot Era](https://yamazato.nuee.nagoya-u.ac.jp/IEEE-ComSoc-Tokyo-Joint-Chapter/blog/2026-11-25-DLT-Byonghyo-Shim-Chiba/)
