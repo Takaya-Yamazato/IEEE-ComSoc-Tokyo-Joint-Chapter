@@ -40,8 +40,8 @@
     "build": "gatsby clean && gatsby build --prefix-paths",
     "develop": "gatsby clean && gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
-    "update w/o ncu -u": "rm -rf node_modules yarn.lock package.lock && npm install && npm run build",
-    "package update": "ncu -u -x react,react-dom && rm -rf node_modules yarn.lock package.lock && npm install && npm run build"
+    "update w/o react,react-dom": "ncu -u -x react,react-dom && rm -rf node_modules yarn.lock package.lock && npm install && npm run build",
+    "package update": "ncu -u && rm -rf node_modules yarn.lock package.lock && npm install && npm run build"
   },
   "devDependencies": {
     "prettier": "^3.9.6"
