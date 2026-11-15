@@ -6,4 +6,5 @@ node_modules
 public
 static/admin/*.bundle.*
 .DS_Store
+package-lock.json
 yarn-error.log
